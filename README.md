@@ -1,1 +1,2 @@
 # yang
+PRINT "HELLO WORLD"
